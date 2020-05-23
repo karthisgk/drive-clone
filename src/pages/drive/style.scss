@@ -1,0 +1,13 @@
+.drive-row {
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    cursor: default;
+}
+.drive-row > div {
+    display: table-cell;
+}
+
+#file-uploader {
+    display: none;
+}

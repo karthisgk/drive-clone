@@ -1,0 +1,47 @@
+.qualification-list {
+    margin-top: 5px;
+}
+
+.education {
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.education .form-group {
+    margin: 0;
+}
+
+.education .courseName {
+    margin: 0px;
+    font-size: 18px;
+}
+
+.education > div  {
+    display: grid;
+}
+
+.education .input, .education .submit, .education.edit .values, .education.edit .edit-btn {
+    display: none;
+}
+
+.education.edit .input, .education.edit .submit{
+    display: block;
+}
+
+.education .values, .education .edit-btn {
+    display: inline;
+}
+
+.education .edit-btn { cursor: pointer;}
+
+.education .submit {
+    margin-top: 10px;
+}
+
+.education .info > label{
+    font-size: 18px;
+    margin-bottom: 0px;
+    line-height: 1.5rem;
+}

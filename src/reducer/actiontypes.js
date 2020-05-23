@@ -1,0 +1,3 @@
+export const SESSIONACTION = 'SESSION';
+export const SETTINGSACTION = 'SETTINGS';
+export const REQUESTBATCH = "REQUESTBATCH";
