@@ -52,7 +52,7 @@
     "select2": "^4.0.13",
     "socket.io-client": "^2.3.0",
     "webpack-visualizer-plugin": "^0.1.11",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
